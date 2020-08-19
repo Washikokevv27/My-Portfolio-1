@@ -1,4 +1,3 @@
-
 # ![My-portfolio](https://washikokevv27.github.io/My-Portfolio-1/)
 # portfolio
 <table>
@@ -33,13 +32,13 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://washikokevv27.github.io/My-Portfolio-1/). Please include sample queries and their corresponding results.
 
 
-
-### Built with 
+## Built with 
 
 - HTML
 - CSS
-- JavaScript
 
-## [MIT](LICENSE.md)
 
+## [License.md](https://washikokevv27.github.io/My-Portfolio-1/master/LICENSE.md)
+
+MIT © [Kelvin Washiko](https://washikokevv27.github.io/My-Portfolio-1/)
 
