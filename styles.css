@@ -164,6 +164,7 @@ body {
 /*section: Projects*/
 #projects {
 height: 100vh;
+background: url(image/38861794_10156520286915138_1774289391280193536_o.jpg);
 
 }
 .projects-bg {
@@ -171,5 +172,23 @@ height: 100vh;
     height: 100%;
     width: 100%;
     background: rgba(0, 0, 0, 0.6);
-    padding: 1rem 0 ;
+    padding: 2rem 0 ;
 }
+#projects h2 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    color: #fff;
+}
+#projects .boxes{
+    display: flex;
+    flex-direction: column;
+}
+#projects .box {
+    background: rgba(54,147,255,07);
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    border-radius: 15px;
+}
+#projects .box:first-child, #projects .box:nth-child(2)
