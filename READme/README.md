@@ -40,6 +40,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - CSS
 - JavaScript
 
-## License
+## [MIT](LICENSE.md)
 
-[MIT](LICENSE.md)
+
