@@ -27,7 +27,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://washikokevv27.github.io/My-Portfolio-1/) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [Kelvin Washiko](https://washikokevv27.github.io/My-Portfolio-1/) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://washikokevv27.github.io/My-Portfolio-1/). Please include sample queries and their corresponding results.
 
