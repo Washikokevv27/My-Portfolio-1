@@ -187,7 +187,7 @@ background: url(image/38861794_10156520286915138_1774289391280193536_o.jpg);
 #projects .box {
     background: rgba(54,147,255,07);
     display: flex;
-    padding: 2rem;
+    padding: 1rem;
     align-items: center;
     border-radius: 15px;
 }
@@ -205,5 +205,6 @@ background: url(image/38861794_10156520286915138_1774289391280193536_o.jpg);
     font-size: 1rem;
     padding: 0.5rem 3rem;
     background: black;
+    
 
 }
