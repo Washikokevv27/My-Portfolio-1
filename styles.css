@@ -199,10 +199,7 @@ background: url(image/38861794_10156520286915138_1774289391280193536_o.jpg);
 #projects .box:first-child, #projects .box:nth-child(2) {
     margin-bottom: 2rem;
 }
-#projects .box img {
-    border-radius: 50%;
-    margin-right: 2rem;
-}
+
 #projects p {
     color: #fff;
 }
